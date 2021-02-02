@@ -25,9 +25,9 @@ Due to the Github file size restrictions, I was unable to upload the Tableau wor
 
 ## Here is my report:
 
-![Report_1](Project_screenshots/Report_1.png)
-![Report_2](Project_screenshots/Report_2.png)
-![Report_3](Project_screenshots/Report_3.png)
-![Report_4](Project_screenshots/Report_4.png)
-![Report_5](Project_screenshots/Report_5.png)
-![Report_6](Project_screenshots/Report_6.png)
+![Report_1](Project_screenshots/Report_1.jpg)
+![Report_2](Project_screenshots/Report_2.jpg)
+![Report_3](Project_screenshots/Report_3.jpg)
+![Report_4](Project_screenshots/Report_4.jpg)
+![Report_5](Project_screenshots/Report_5.jpg)
+![Report_6](Project_screenshots/Report_6.jpg)
